@@ -1,15 +1,20 @@
 BeFit
+
 BeFit is a comprehensive fitness app designed to help you achieve your health and fitness goals. The app provides a variety of features, including a BMI calculator, step counter, meal planning, and a detailed exercise section, all tailored to suit your individual needs.
 
 Features
+
 1. BMI Calculator
 Easily calculate your Body Mass Index (BMI) to track your health status.
-2. Step Counter
+
+3. Step Counter
 Uses sensors to accurately count your daily steps, helping you stay active and monitor your physical activity.
-3. Meal Plan
+
+5. Meal Plan
 A meal plan list with calorie and protein intake information for all 7 days.
 Allows you to add, edit, and delete meals according to your preferences and dietary needs.
-4. Exercise Section
+
+7. Exercise Section
 Includes six types of exercises: Cardio, Core, Upper Body, Lower Body, Full Body, and Strength Training.
 Each exercise type has more than 5 exercises with:
 Video demonstrations.
@@ -17,13 +22,16 @@ Detailed instructions, step-by-step.
 Benefits of the exercise.
 Proper breathing form.
 Required sets for each exercise.
-5. Profile Section
+
+9. Profile Section
 Display your personal details including your image, name, age, weight, height, and sex.
 Easily update your profile information to keep track of your progress.
-6. Start Page
+10. Start Page
 Welcomes you with the app logo and name, "BeFit".
+
 Screenshots
 (Add screenshots of your app here)
+![image](https://github.com/user-attachments/assets/e662ccd7-4f72-4fc1-a353-40aa0c1928c7)
 
 Installation
 To get started with BeFit, follow these steps:
