@@ -31,54 +31,44 @@ Welcomes you with the app logo and name, "BeFit".
 
 Screenshots
 (Add screenshots of your app here)
-![image](https://github.com/user-attachments/assets/e662ccd7-4f72-4fc1-a353-40aa0c1928c7)
+HOME
+![image](https://github.com/user-attachments/assets/e662ccd7-4f72-4fc1-a353-40aa0c1928c7)![Screenshot 2024-08-03 183438](https://github.com/user-attachments/assets/95f70119-d181-4832-9967-0eb532c8a3c1)
 
-Installation
-To get started with BeFit, follow these steps:
+PROFILE
+![Screenshot 2024-08-03 183708](https://github.com/user-attachments/assets/7e61b0c8-5b7f-4c4d-8f4c-12796f6b9c41)
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/BeFit.git
-Navigate to the project directory:
-bash
-Copy code
-cd BeFit
-Install the necessary dependencies:
-bash
-Copy code
-flutter pub get
-Run the app on your device or emulator:
-bash
-Copy code
-flutter run
+BMI
+![Screenshot 2024-08-03 183817](https://github.com/user-attachments/assets/dbacd690-e281-4530-bd0f-b4851e6271d9)
+
+STEP COUNTER
+![Screenshot 2024-08-03 183834](https://github.com/user-attachments/assets/5dc83bb9-3eb9-459d-9aed-e85927aca815)
+
+MEAL PLAN
+![Screenshot 2024-08-03 183846](https://github.com/user-attachments/assets/9b55f213-2040-4780-94b1-8e5215b3c650)![Screenshot 2024-08-03 184719](https://github.com/user-attachments/assets/ec2c85b5-6e79-42da-902a-00fcd9fd48ca)
+
+EXERCISE
+![Screenshot 2024-08-03 184011](https://github.com/user-attachments/assets/9a1ea352-53e2-4b0c-b9ce-52f2d0c72256)![Screenshot 2024-08-03 184804](https://github.com/user-attachments/assets/4244a1b8-31d4-4c1e-8e3f-960140e87780)
+
+
 Usage
-BMI Calculator: Enter your height and weight to get your BMI.
-Step Counter: Start walking and let the app count your steps automatically.
-Meal Plan: View, add, edit, or delete meals in your weekly meal plan.
-Exercise Section: Select an exercise type, choose an exercise, and follow the video demonstrations and instructions.
+
 Profile Section: Update your profile with your latest information to keep track of your fitness journey.
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m 'Add some feature'
-Push to the branch:
-bash
-Copy code
-git push origin feature/your-feature-name
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-If you have any questions or suggestions, feel free to reach out to us at your-email@example.com.
+BMI Calculator: 
+Enter your height and weight to get your BMI.
+
+Step Counter:
+Start walking and let the app count your steps automatically.
+
+Meal Plan:
+View, add, edit, or delete meals in your weekly meal plan.
+
+
+Exercise Section: 
+Select an exercise type, choose an exercise, and follow the video demonstrations and instructions.
+
+
+
 
 Feel free to customize the README further based on your specific project details and preferences.
